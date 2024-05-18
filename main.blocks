@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="A)kZlQ*b~xN$?MG:1`r+" x="0" y="0"></block><block type="ctrlonbuttonevent" id=",9.-:7XG3BX_k*k/gu0D" x="70" y="230"><field name="controller">controller.player2</field><field name="button">ControllerButton.A</field><field name="event">ControllerButtonEvent.Pressed</field></block></xml>
